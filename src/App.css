@@ -37,3 +37,30 @@
 .app-wrapper {
   margin:5% 20%;
 }
+
+.app-wrapper h2 {
+  margin-bottom: 25px;
+}
+
+.app-wrapper h2 span {
+  color:red;
+}
+
+
+.boxColor {
+  width: 100%;
+  min-height: 150px;
+  margin: 20px 0px;
+}
+
+.boxColor{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:100%;
+  border: 1px solid black;
+}
+
+.boxColor span {
+  font-size: 30px;
+}
